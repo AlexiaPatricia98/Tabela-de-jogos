@@ -1,0 +1,21 @@
+table{
+    background-color: rgb(202, 202, 218);
+    border-color: rgb(83, 83, 216);
+    border-radius: 5px;
+    text-align: center;
+    justify-content: baseline;
+    text-decoration: dashed;
+}
+
+tr{
+    border: none;
+}
+
+th{
+    background-color: rgb(105, 105, 192);
+}
+
+h2{
+    color: rgb(105, 105, 192);
+    text-align: center;
+}
